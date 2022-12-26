@@ -1,0 +1,19 @@
+.wrapContainer {
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    width: 70%;
+}
+
+.wrapItem {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapList {
+    width: 500px;
+}
